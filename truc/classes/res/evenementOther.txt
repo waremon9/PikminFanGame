@@ -1,0 +1,4 @@
+ID : NAME : STAMINA : URL : DROP : MIN : MAX : URLDROP
+1:Bomb hole:300:/res/other/Bomb_Rock_Hole.png:bomb-rock:1:4:/res/other/Bombrock.png
+2:Spicy berry flower:200:/res/other/Spicy_Berry_Flower.png:spicy-spray:1:1:/res/other/SpicySpray.png
+2:Bitter berry flower:200:/res/other/Bitter_Berry_Flower.jpg:bitter-spray:1:1:/res/other/BitterSpray.png

@@ -1,0 +1,40 @@
+ID : NAME : AVG PIKMIN SPROUTED : SURE KILL : DEATH TEXT : URL : LVL OF DANGER : % OF DROP : DROP RARE 1 : RARE 2 : RARE 3 : RARE 4 : RARE 5
+1:Dwarf red bulborb:3:5:A pikmin falls on his head, instakill, poor little thing.:3:/res/enemy/Dwarf_Red_Bulborb.png:2:2:90:10:0:0:0
+2:Dwarf orange bulborb:3:5:A pikmin falls on his head, instakill, poor little thing.:3:/res/enemy/Dwarf_Orange_Bulborb.png:2:3:85:15:0:0:0
+3:Red bulborb:10:25:Better sleep than defend yourself.:10:/res/enemy/Red_Bulborb.png:8:12:60:30:9:1:0
+4:Female sheargrub:2:1:Innocent bug used for the sake of the pikmin. Nature is cruel.:1:/res/enemy/Female_Sheargrub.png:0:0:0:0:0:0:0
+5:Creeping chrysanthemum:11:40:He tried to eat you, failed miserably, hit himself and fall...:12:/res/enemy/Creeping_Chrysanthemum.png:9:25:40:30:20:10:0
+6:Fiery blowhog:7:12:Spit fire like a dragon but hopefully isn't one.:7:/res/enemy/Fiery_Blowhog.png:5:12:60:35:5:0:0
+7:Watery blowhog:7:12:Spit water like a dragon... WAIT WHAT?!:7:/res/enemy/Watery_Blowhog.png:5:12:60:35:5:0:0
+8:Water dumpled:8:15:Happy we killed that thing, it's a strange one.:5:/res/enemy/Water_Dumple.png:6:6:80:20:0:0:0
+9:Wollywog:7:18:Grilled frog legs, I wonder what it taste.:8:/res/enemy/Wollywog.png:5:9:50:50:0:0:0
+10:Anode dweevil:3:30:Insta-kill from elctricity, these Anode dweevil are the worst.:3:/res/enemy/Anode_Dweevil.png:12:10:00:60:20:10:10
+11:Armored cannon beetle:25:85:Dead, like your Pikmin if you're not carefull.:20:/res/enemy/Armored_Cannon_Beetle.png:20:40:0:0:50:30:20
+12:Armored cannon beetle larva:16:40:I wonder where do all these rock boulder come from.:18:/res/enemy/Armored_Cannon_Beetle_Larva.png:13:24:0:20:45:25:10
+13:Bearded amprat:10:20:I would love to pet one of them...:12:/res/enemy/Bearded_Amprat.png:10:11:0:50:40:10:0
+14:Burrowing snagret:32:150:Like a topikeur, we don't know what's under him.:30:/res/enemy/Burrowing_Snagret.png:38:65:0:0:0:65:35
+15:Calcified crushblat:26:95:Crushing your enemy is always the best idea and he undestand that.:25:/res/enemy/Calcified_Crushblat.png:24:30:0:20:40:30:10
+16:Caustic dweevil:3:10:I really hate spiders!!!:3:/res/enemy/Caustic_Dweevil.png:3:10:20:60:10:5:5
+17:Cloaking burrow-nit:6:12:Well, burrying half of yourself isn't the best strategie to hide.:8:/res/enemy/Cloaking_Burrow-nit.png:4:7:55:40:5:0:0
+18:Decorated cannon beetle:20:60:Someone can explain how the boulder follow me?:20:/res/enemy/Decorated_Cannon_Beetle.png:20:16:0:10:45:30:15
+19:Fiery dweevil:3:10:I really hate spiders!!!:3:/res/enemy/Fiery_Dweevil.png:3:10:20:60:10:5:5
+20:Gatling groink:50:250:Since when does a fish shoot explosive bullets?:18:/res/enemy/Gatling_Groink.png:69:55:0:0:20:45:35
+21:Jousmite:7:15:Well, burrying half of yourself isn't the best strategie to hide.:8:/res/enemy/Joustmite.png:5:8:55:40:5:0:0
+22:Male sheargrub:2:3:Well, at least he tried.:1:/res/enemy/Male_Sheargrub.png:1:0:0:0:0:0:0
+23:Munge dweevil:3:10:I really hate spiders!!!:3:/res/enemy/Munge_Dweevil.png:3:10:20:60:10:5:5
+24:Orange bulborb:10:32:Better sleep than defend yourself.:12:/res/enemy/Orange_Bulborb.png:10:16:50:35:13:2:0
+25:Skeeterskate:3:4:Skating on water? Is that a Back to the future reference?:2:/res/enemy/Skeeterskate.png:1:1:100:0:0:0:0
+26:Spotty bulbear:40:300:What a living nightmare!:30:/res/enemy/Spotty_Bulbear.png:70:75:0:0:5:35:60
+27:Swooping snitchbug:4:12:Give me my Pikmin back!:3:/res/enemy/Swooping_Snitchbug.png:70:100:0:0:0:0:0
+28:Toady bloyster:23:75:It looks like a slime, funny.:5:/res/enemy/Toady_Bloyster.png:15:28:20:35:25:20:0
+29:Waddlepus:5:13:Does he really intend to win using bubble?:8:/res/enemy/Waddlepus.png:2:5:80:20:0:0:0
+30:Whiptongue bulborb:12:35:Holy shit! What was that?:15:/res/enemy/Whiptongue_Bulborb.png:10:18:30:55:13:2:0
+31:Pyroclasmic slooch:4:14:A buring poop, really?:3:/res/enemy/Pyroclasmic_Slooch.png:4:3:100:0:0:0:0
+32:Puffy blowhog:15:230:He was supposed to blow the pikmin, not send them to a bottomless pit!:5:/res/enemy/Puffy_Blowhog.png:50:40:0:20:30:40:10
+33:Anode beetle:10:20:Who is the Nintendo guy who thought that an electrocute one-shot was a great idea?:5:/res/enemy/Anode_Beetle.png:7:7:60:40:0:0:0
+34:Armores mawdad:120:800:Can we call this a glass canon warior?:60:/res/enemy/Armored_Mawdad.png:160:100:0:0:0:0:100
+35:Breadbug:6:10:A bread....bug... OK!:7:/res/enemy/Breadbug.png:4:40:20:20:20:20:20
+36:Demonic bulbear:90:666:What is that thing, i never saw one before, did a nuclear plant explode somewhere?:35:/res/enemy/Demonic_Bulbear.png:115:88:1:0:0:30:70
+37:Dwarf blueborb:12:35:A blue one? I don't know if he can breath underwater but one thing is sure, he is strong.:3:/res/enemy/Dwarf_Blueborb.png:9:15:20:50:30:0:0
+37:Dwarf purplorb:13:40:A purple one? I don't know if he can stun when falling but one thing is sure, he is strong.:3:/res/enemy/Dwarf_Purplorb.png:10:17:20:50:30:0:0
+38:Emperor bulbax:40:380:This guy isn't an emperor for no reason.:40:/res/enemy/Emperor_Bulbax.png:90:70:10:10:20:30:30

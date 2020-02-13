@@ -1,0 +1,24 @@
+ID : NAME : VALUE : URL : POIDS : RARETE(5 LVL)
+1:Hypnotic mushroom:150:/res/treasure/Mushroom_1.png:12:2
+2:Infinite suply:260:/res/treasure/Pile_Alcaline.png:15:2
+3:Giant 2D hand:400:/res/treasure/Glove.png:26:4
+4:Crystallized telekinesis:120:/res/treasure/Crystallized_Telekinesis.png:3:1
+5:Activity arouser:100:/res/treasure/Activity_Arouser.png:4:1
+6:Air brake:200:/res/treasure/Air_Brake.png:10:2
+7:Chance totem:240:/res/treasure/Chance_Totem.png:10:2
+8:Coiled launcher:330:/res/treasure/Coiled_Launcher.png:40:3
+9:Container of knowledge:50:/res/treasure/Container_Of_Knowledge.png:50:3
+10:Sulking antenna:550:/res/treasure/Sulking_Antenna.png:70:5
+11:Happiness emblem:110:/res/treasure/Happiness_Emblem.png:3:1
+12:Massage girdle:300:/res/treasure/Massage_Girdle.png:20:3
+13:Pink menace:760:/res/treasure/Pink_Menace.png:7:5
+14:Quenching emblem:110:/res/treasure/Quenching_Emblem.png:3:1
+15:Rubber ugly:600:/res/treasure/Rubber_Ugly.png:15:4
+16:Survival ointment:180:/res/treasure/Survival_Ointment.png:5:2
+17:Armored nut:70:/res/treasure/Armored_Nut.png:4:1
+18:Behemot jaw:300:/res/treasure/Behemot_Jaw.png:15:3
+19:Director of destiny:470:/res/treasure/Director_Of_Destiny.png:20:4
+20:Mirrored element:850:/res/treasure/Mirrored_Element.png:5:5
+21:Vorpal platter:210:/res/treasure/Vorpal_Platter.png:10:2
+22:Citus lump:150:/res/treasure/Citrus_Lump.png:15:2
+23:Spherical atlas:1200:/res/treasure/Spherical_Atlas.png:101:5

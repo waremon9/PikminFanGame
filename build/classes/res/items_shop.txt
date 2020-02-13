@@ -1,0 +1,13 @@
+ID : GROUPE : NAME : PRICE  : MONNAIE : DESCRIPTION
+1:1:Onion size:3000:pokos:Each level allow you to bring 40 more pikmin into battle.
+2:3:Pellet 50:200:pokos:You gain 50 pikmins. (increased by onion power)
+3:2:Bomb-rock:60:pokos:Use it against an ennemy and you will gain a power equal to 50 more pikmin.
+4:3:Pellet 100:350:pokos:You gain 100 pikmins. (increased by onion power)
+5:2:Spicy spray:100:pokos:Use it and your pikmin will move twice as fast, takes less turns to carry things, destroy walls and collect items faster.
+6:2:Bitter spray:80:pokos:Use it to weaken the next two ennemie by half their destructive power.
+7:1:Onion power:2200:pokos:Each level increase the number of pikmin sprouted from corpse and pellet by 20%.
+8:1:Bomb-rock power:250:Pikmins:Each level increase the power of the bomb rock by 25 pikmins.
+9:1:Spicy spray power:1000:Pikmins:Each level increase the speed of the pikmin by 1.
+10:1:Spicy spray duration:800:Pikmins:Each level increase the duration of the spicy spray by 15.
+11:1:Bitter spray power:1000:Pikmins:Each level increase the lowering power of spray by 1.
+12:1:Bitter spray duration:800:Pikmins:Each level increase the duration of the bitter spray by 1.

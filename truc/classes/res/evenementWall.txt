@@ -1,0 +1,4 @@
+LVL : NAME : STAMINA : URL :  DROP1 : DROP2 : DROP3 : DROP4 : DROP5
+1:Dirt wall:700:/res/other/Wall_1.png:40:20:10:5:1
+2:Stone wall:1500:/res/other/Wall_2.png:20:40:20:10:5
+3:Dark stone wall:3500:/res/other/Wall_3.png:5:10:30:30:25

@@ -1,0 +1,5 @@
+ID : NAME : IMAGE
+1:Starting area:/res/other/Wild_Background.png
+2:Advanced area:/res/other/Advanced_Background.png
+3:Bulborb area:/res/other/Bulborb_Background.png
+4:Boss area:/res/other/Boss_Background.png
