@@ -1,4 +1,5 @@
 # PikminFanGame
+Summer 2019
 At first, a little training at java ihm and it ended being a pikmin fan game.
 
 It's a pikmin game using only the enemy, elements of pikmin. I own no image. It's all shamelessly stolen with the help of google image.
